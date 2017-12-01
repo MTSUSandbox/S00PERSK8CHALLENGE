@@ -1,7 +1,7 @@
 /*
 	Programmer: Cory Nelson
 	Artist: Hannah Owens
-	Musician: Phillip Scott
+	Musician: Andrew Scott
 		
 	State Info: This state handles the main menu.
 */
